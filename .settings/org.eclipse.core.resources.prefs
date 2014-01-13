@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//common/DataOperate.py=utf-8
+encoding//common/config.py=utf-8
+encoding//common/data.py=utf-8
+encoding//common/database.py=utf-8
+encoding//common/errors.py=utf-8
+encoding//common/log.py=utf-8
+encoding//common/util.py=utf-8
+encoding//dynamic/parse_action_log.py=utf-8
+encoding//static/apk_operate.py=utf-8
+encoding//static/apk_static_analysis.py=utf-8
+encoding//static/emulator_operate.py=utf-8
+encoding//static/process_manifest.py=utf-8
+encoding/integration.py=utf-8
